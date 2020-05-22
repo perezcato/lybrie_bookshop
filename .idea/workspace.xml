@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e17fecbf-6595-44a8-9511-cb91ead7b005" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/vendor/fruitcake/laravel-cors" />
+      <path value="$PROJECT_DIR$/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/vendor/scrivo/highlight.php" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/facade/flare-client-php" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/facade/ignition-contracts" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/facade/ignition" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/vendor/voku/portable-ascii" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/collection" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/brick/math" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/league/commonmark" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/asm89/stack-cors" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1cDGy1EIVrXn6KnWqHszl7sZVGN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager" selected="PHPUnit.Feature">
+    <configuration name="BookTest.test_able_to_browse_a_book_by_author" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP 7.4" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <TestRunner class="Tests\Feature\BookTest" configuration_file="$PROJECT_DIR$/phpunit.xml" file="$PROJECT_DIR$/tests/Feature/BookTest.php" method="test_able_to_browse_a_book_by_author" scope="Method" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BookTest.test_able_to_browse_a_book_by_genres" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP 7.4" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <TestRunner class="Tests\Feature\BookTest" configuration_file="$PROJECT_DIR$/phpunit.xml" file="$PROJECT_DIR$/tests/Feature/BookTest.php" method="test_able_to_browse_a_book_by_genres" scope="Method" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BookTest.test_able_to_browse_a_book_by_year" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP 7.4" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <TestRunner class="Tests\Feature\BookTest" configuration_file="$PROJECT_DIR$/phpunit.xml" file="$PROJECT_DIR$/tests/Feature/BookTest.php" method="test_able_to_browse_a_book_by_year" scope="Method" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BookTest.test_able_to_search_a_book_by_isbn" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP 7.4" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <TestRunner class="Tests\Feature\BookTest" configuration_file="$PROJECT_DIR$/phpunit.xml" file="$PROJECT_DIR$/tests/Feature/BookTest.php" method="test_able_to_search_a_book_by_isbn" scope="Method" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Feature" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP 7.4" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <TestRunner configuration_file="$PROJECT_DIR$/phpunit.xml" directory="$PROJECT_DIR$/tests/Feature" />
+      <method v="2" />
+    </configuration>
+    <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner scope="XML" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHPUnit.Feature" />
+        <item itemvalue="PHPUnit.BookTest.test_able_to_browse_a_book_by_year" />
+        <item itemvalue="PHPUnit.BookTest.test_able_to_browse_a_book_by_genres" />
+        <item itemvalue="PHPUnit.BookTest.test_able_to_browse_a_book_by_author" />
+        <item itemvalue="PHPUnit.BookTest.test_able_to_search_a_book_by_isbn" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e17fecbf-6595-44a8-9511-cb91ead7b005" name="Default Changelist" comment="" />
+      <created>1590056000713</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590056000713</updated>
+      <workItem from="1590056005979" duration="25093000" />
+      <workItem from="1590080675909" duration="11760000" />
+      <workItem from="1590115317810" duration="4015000" />
+      <workItem from="1590138309592" duration="1260000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="316" y="26" width="797" height="817" key="#AuthorTest.test_authors_can_get_book" timestamp="1590078281366">
+      <screen x="0" y="26" width="1440" height="874" />
+    </state>
+    <state x="316" y="26" width="797" height="817" key="#AuthorTest.test_authors_can_get_book/0.26.1440.874@0.26.1440.874" timestamp="1590078281366" />
+    <state x="316" y="26" width="797" height="817" key="#AuthorTest.test_can_add_authors" timestamp="1590077233908">
+      <screen x="0" y="26" width="1440" height="874" />
+    </state>
+    <state x="316" y="26" width="797" height="817" key="#AuthorTest.test_can_add_authors/0.26.1440.874@0.26.1440.874" timestamp="1590077233908" />
+    <state x="316" y="26" width="797" height="817" key="#AuthorTest.test_can_delete_authors" timestamp="1590078054780">
+      <screen x="0" y="26" width="1440" height="874" />
+    </state>
+    <state x="316" y="26" width="797" height="817" key="#AuthorTest.test_can_delete_authors/0.26.1440.874@0.26.1440.874" timestamp="1590078054780" />
+    <state x="316" y="26" width="797" height="817" key="#AuthorTest.test_can_get_single_authors" timestamp="1590077919877">
+      <screen x="0" y="26" width="1440" height="874" />
+    </state>
+    <state x="316" y="26" width="797" height="817" key="#AuthorTest.test_can_get_single_authors/0.26.1440.874@0.26.1440.874" timestamp="1590077919877" />
+    <state x="316" y="26" width="797" height="817" key="#AuthorTest.test_can_update_authors" timestamp="1590077549224">
+      <screen x="0" y="26" width="1440" height="874" />
+    </state>
+    <state x="316" y="26" width="797" height="817" key="#AuthorTest.test_can_update_authors/0.26.1440.874@0.26.1440.874" timestamp="1590077549224" />
+    <state x="316" y="26" width="797" height="817" key="#AuthorTest.test_validates_input_before_creating_authors" timestamp="1590078088739">
+      <screen x="0" y="26" width="1440" height="874" />
+    </state>
+    <state x="316" y="26" width="797" height="817" key="#AuthorTest.test_validates_input_before_creating_authors/0.26.1440.874@0.26.1440.874" timestamp="1590078088739" />
+    <state x="316" y="26" width="797" height="817" key="#AuthorTest.test_validates_input_before_updating_authors" timestamp="1590078117218">
+      <screen x="0" y="26" width="1440" height="874" />
+    </state>
+    <state x="316" y="26" width="797" height="817" key="#AuthorTest.test_validates_input_before_updating_authors/0.26.1440.874@0.26.1440.874" timestamp="1590078117218" />
+    <state x="316" y="26" width="797" height="817" key="#AuthorTest.test_validates_whether_authors_id_is_valid" timestamp="1590078215951">
+      <screen x="0" y="26" width="1440" height="874" />
+    </state>
+    <state x="316" y="26" width="797" height="817" key="#AuthorTest.test_validates_whether_authors_id_is_valid/0.26.1440.874@0.26.1440.874" timestamp="1590078215951" />
+    <state x="316" y="26" width="797" height="817" key="#AuthorTest.test_validates_whether_authors_id_is_valid_before_deleting" timestamp="1590078244885">
+      <screen x="0" y="26" width="1440" height="874" />
+    </state>
+    <state x="316" y="26" width="797" height="817" key="#AuthorTest.test_validates_whether_authors_id_is_valid_before_deleting/0.26.1440.874@0.26.1440.874" timestamp="1590078244885" />
+    <state x="316" y="26" width="797" height="817" key="#AuthorTest.test_validates_whether_authors_id_is_valid_before_updating" timestamp="1590078170732">
+      <screen x="0" y="26" width="1440" height="874" />
+    </state>
+    <state x="316" y="26" width="797" height="817" key="#AuthorTest.test_validates_whether_authors_id_is_valid_before_updating/0.26.1440.874@0.26.1440.874" timestamp="1590078170732" />
+    <state x="316" y="43" width="797" height="783" key="#BookTest" timestamp="1590064406738">
+      <screen x="0" y="26" width="1440" height="874" />
+    </state>
+    <state x="316" y="54" width="797" height="817" key="#BookTest.test_able_to_browse_a_book_by_author" timestamp="1590128106098">
+      <screen x="0" y="26" width="1440" height="874" />
+    </state>
+    <state x="316" y="54" width="797" height="817" key="#BookTest.test_able_to_browse_a_book_by_author/0.26.1440.874@0.26.1440.874" timestamp="1590128106098" />
+    <state x="316" y="54" width="797" height="817" key="#BookTest.test_able_to_browse_a_book_by_genres" timestamp="1590128212068">
+      <screen x="0" y="26" width="1440" height="874" />
+    </state>
+    <state x="316" y="54" width="797" height="817" key="#BookTest.test_able_to_browse_a_book_by_genres/0.26.1440.874@0.26.1440.874" timestamp="1590128212068" />
+    <state x="316" y="54" width="797" height="817" key="#BookTest.test_able_to_browse_a_book_by_year" timestamp="1590128441308">
+      <screen x="0" y="26" width="1440" height="874" />
+    </state>
+    <state x="316" y="54" width="797" height="817" key="#BookTest.test_able_to_browse_a_book_by_year/0.26.1440.874@0.26.1440.874" timestamp="1590128441308" />
+    <state x="316" y="54" width="797" height="817" key="#BookTest.test_able_to_search_a_book_by_isbn" timestamp="1590127598389">
+      <screen x="0" y="26" width="1440" height="874" />
+    </state>
+    <state x="316" y="54" width="797" height="817" key="#BookTest.test_able_to_search_a_book_by_isbn/0.26.1440.874@0.26.1440.874" timestamp="1590127598389" />
+    <state x="316" y="54" width="797" height="817" key="#BookTest.test_able_to_search_a_book_by_title" timestamp="1590126978351">
+      <screen x="0" y="26" width="1440" height="874" />
+    </state>
+    <state x="316" y="54" width="797" height="817" key="#BookTest.test_able_to_search_a_book_by_title/0.26.1440.874@0.26.1440.874" timestamp="1590126978351" />
+    <state x="316" y="26" width="797" height="817" key="#BookTest.test_can_add_book" timestamp="1590103360222">
+      <screen x="0" y="26" width="1440" height="874" />
+    </state>
+    <state x="316" y="26" width="797" height="817" key="#BookTest.test_can_add_book/0.26.1440.874@0.26.1440.874" timestamp="1590103360222" />
+    <state x="316" y="26" width="797" height="817" key="#BookTest.test_can_delete_book" timestamp="1590105549978">
+      <screen x="0" y="26" width="1440" height="874" />
+    </state>
+    <state x="316" y="26" width="797" height="817" key="#BookTest.test_can_delete_book/0.26.1440.874@0.26.1440.874" timestamp="1590105549978" />
+    <state x="316" y="26" width="797" height="817" key="#BookTest.test_can_get_single_book" timestamp="1590104662722">
+      <screen x="0" y="26" width="1440" height="874" />
+    </state>
+    <state x="316" y="26" width="797" height="817" key="#BookTest.test_can_get_single_book/0.26.1440.874@0.26.1440.874" timestamp="1590104662722" />
+    <state x="316" y="26" width="797" height="817" key="#BookTest.test_can_update_book" timestamp="1590104187573">
+      <screen x="0" y="26" width="1440" height="874" />
+    </state>
+    <state x="316" y="26" width="797" height="817" key="#BookTest.test_can_update_book/0.26.1440.874@0.26.1440.874" timestamp="1590104187573" />
+    <state x="316" y="54" width="797" height="817" key="#BookTest.test_gets_number_of_books_based_on_author" timestamp="1590108094661">
+      <screen x="0" y="26" width="1440" height="874" />
+    </state>
+    <state x="316" y="54" width="797" height="817" key="#BookTest.test_gets_number_of_books_based_on_author/0.26.1440.874@0.26.1440.874" timestamp="1590108094661" />
+    <state x="316" y="54" width="797" height="817" key="#BookTest.test_gets_number_of_books_based_on_genre" timestamp="1590126211364">
+      <screen x="0" y="26" width="1440" height="874" />
+    </state>
+    <state x="316" y="54" width="797" height="817" key="#BookTest.test_gets_number_of_books_based_on_genre/0.26.1440.874@0.26.1440.874" timestamp="1590126211364" />
+    <state x="316" y="54" width="797" height="817" key="#BookTest.test_gets_number_of_books_based_on_year" timestamp="1590126580364">
+      <screen x="0" y="26" width="1440" height="874" />
+    </state>
+    <state x="316" y="54" width="797" height="817" key="#BookTest.test_gets_number_of_books_based_on_year/0.26.1440.874@0.26.1440.874" timestamp="1590126580364" />
+    <state x="316" y="54" width="797" height="817" key="#BookTest.test_returns_number_of_books_based_on_author" timestamp="1590107273489">
+      <screen x="0" y="26" width="1440" height="874" />
+    </state>
+    <state x="316" y="54" width="797" height="817" key="#BookTest.test_returns_number_of_books_based_on_author/0.26.1440.874@0.26.1440.874" timestamp="1590107273489" />
+    <state x="316" y="26" width="797" height="817" key="#BookTest.test_validates_input_before_creating_user" timestamp="1590105590572">
+      <screen x="0" y="26" width="1440" height="874" />
+    </state>
+    <state x="316" y="26" width="797" height="817" key="#BookTest.test_validates_input_before_creating_user/0.26.1440.874@0.26.1440.874" timestamp="1590105590572" />
+    <state x="316" y="26" width="797" height="817" key="#BookTest.test_validates_input_before_updating_user" timestamp="1590105640528">
+      <screen x="0" y="26" width="1440" height="874" />
+    </state>
+    <state x="316" y="26" width="797" height="817" key="#BookTest.test_validates_input_before_updating_user/0.26.1440.874@0.26.1440.874" timestamp="1590105640528" />
+    <state x="316" y="26" width="797" height="817" key="#BookTest.test_validates_whether_user_id_is_valid" timestamp="1590105678781">
+      <screen x="0" y="26" width="1440" height="874" />
+    </state>
+    <state x="316" y="26" width="797" height="817" key="#BookTest.test_validates_whether_user_id_is_valid/0.26.1440.874@0.26.1440.874" timestamp="1590105678781" />
+    <state x="316" y="26" width="797" height="817" key="#BookTest.test_validates_whether_user_id_is_valid_before_deleting" timestamp="1590072695032">
+      <screen x="0" y="26" width="1440" height="874" />
+    </state>
+    <state x="316" y="26" width="797" height="817" key="#BookTest.test_validates_whether_user_id_is_valid_before_deleting/0.26.1440.874@0.26.1440.874" timestamp="1590072695032" />
+    <state x="316" y="26" width="797" height="817" key="#BookTest.test_validates_whether_user_id_is_valid_before_updating" timestamp="1590105659654">
+      <screen x="0" y="26" width="1440" height="874" />
+    </state>
+    <state x="316" y="26" width="797" height="817" key="#BookTest.test_validates_whether_user_id_is_valid_before_updating/0.26.1440.874@0.26.1440.874" timestamp="1590105659654" />
+    <state x="316" y="26" width="797" height="817" key="#BookTest.user_can_get_book" timestamp="1590102000379">
+      <screen x="0" y="26" width="1440" height="874" />
+    </state>
+    <state x="316" y="26" width="797" height="817" key="#BookTest.user_can_get_book/0.26.1440.874@0.26.1440.874" timestamp="1590102000379" />
+    <state x="316" y="43" width="797" height="783" key="#BookTest/0.26.1440.874@0.26.1440.874" timestamp="1590064406738" />
+    <state x="316" y="43" width="797" height="783" key="#BookTest_(1)" timestamp="1590070069905">
+      <screen x="0" y="26" width="1440" height="874" />
+    </state>
+    <state x="316" y="43" width="797" height="783" key="#BookTest_(1)/0.26.1440.874@0.26.1440.874" timestamp="1590070069905" />
+    <state x="298" y="92" width="824" height="684" key="#CLI_Interpreters" timestamp="1590056671803">
+      <screen x="0" y="26" width="1440" height="874" />
+    </state>
+    <state x="298" y="92" width="824" height="684" key="#CLI_Interpreters/0.26.1440.874@0.26.1440.874" timestamp="1590056671803" />
+    <state x="316" y="94" width="797" height="738" key="#Feature" timestamp="1590128472798">
+      <screen x="0" y="26" width="1440" height="874" />
+    </state>
+    <state x="316" y="94" width="797" height="738" key="#Feature/0.26.1440.874@0.26.1440.874" timestamp="1590128472798" />
+    <state x="316" y="43" width="797" height="783" key="#GenreTest" timestamp="1590074295578">
+      <screen x="0" y="26" width="1440" height="874" />
+    </state>
+    <state x="316" y="26" width="797" height="817" key="#GenreTest.test_can_add_genre" timestamp="1590078369491">
+      <screen x="0" y="26" width="1440" height="874" />
+    </state>
+    <state x="316" y="26" width="797" height="817" key="#GenreTest.test_can_add_genre/0.26.1440.874@0.26.1440.874" timestamp="1590078369491" />
+    <state x="316" y="26" width="797" height="817" key="#GenreTest.test_can_delete_genre" timestamp="1590075167528">
+      <screen x="0" y="26" width="1440" height="874" />
+    </state>
+    <state x="316" y="26" width="797" height="817" key="#GenreTest.test_can_delete_genre/0.26.1440.874@0.26.1440.874" timestamp="1590075167528" />
+    <state x="316" y="26" width="797" height="817" key="#GenreTest.test_can_get_single_genre" timestamp="1590074746653">
+      <screen x="0" y="26" width="1440" height="874" />
+    </state>
+    <state x="316" y="26" width="797" height="817" key="#GenreTest.test_can_get_single_genre/0.26.1440.874@0.26.1440.874" timestamp="1590074746653" />
+    <state x="316" y="26" width="797" height="817" key="#GenreTest.test_can_update_genre" timestamp="1590074696845">
+      <screen x="0" y="26" width="1440" height="874" />
+    </state>
+    <state x="316" y="26" width="797" height="817" key="#GenreTest.test_can_update_genre/0.26.1440.874@0.26.1440.874" timestamp="1590074696845" />
+    <state x="316" y="26" width="797" height="817" key="#GenreTest.test_genre_can_get_book" timestamp="1590072995191">
+      <screen x="0" y="26" width="1440" height="874" />
+    </state>
+    <state x="316" y="26" width="797" height="817" key="#GenreTest.test_genre_can_get_book/0.26.1440.874@0.26.1440.874" timestamp="1590072995191" />
+    <state x="316" y="26" width="797" height="817" key="#GenreTest.test_validates_input_before_creating_genre" timestamp="1590075204092">
+      <screen x="0" y="26" width="1440" height="874" />
+    </state>
+    <state x="316" y="26" width="797" height="817" key="#GenreTest.test_validates_input_before_creating_genre/0.26.1440.874@0.26.1440.874" timestamp="1590075204092" />
+    <state x="316" y="26" width="797" height="817" key="#GenreTest.test_validates_input_before_updating_genre" timestamp="1590075251250">
+      <screen x="0" y="26" width="1440" height="874" />
+    </state>
+    <state x="316" y="26" width="797" height="817" key="#GenreTest.test_validates_input_before_updating_genre/0.26.1440.874@0.26.1440.874" timestamp="1590075251250" />
+    <state x="316" y="26" width="797" height="817" key="#GenreTest.test_validates_whether_genre_id_is_valid" timestamp="1590076326596">
+      <screen x="0" y="26" width="1440" height="874" />
+    </state>
+    <state x="316" y="26" width="797" height="817" key="#GenreTest.test_validates_whether_genre_id_is_valid/0.26.1440.874@0.26.1440.874" timestamp="1590076326596" />
+    <state x="316" y="26" width="797" height="817" key="#GenreTest.test_validates_whether_genre_id_is_valid_before_deleting" timestamp="1590076338308">
+      <screen x="0" y="26" width="1440" height="874" />
+    </state>
+    <state x="316" y="26" width="797" height="817" key="#GenreTest.test_validates_whether_genre_id_is_valid_before_deleting/0.26.1440.874@0.26.1440.874" timestamp="1590076338308" />
+    <state x="316" y="26" width="797" height="817" key="#GenreTest.test_validates_whether_genre_id_is_valid_before_updating" timestamp="1590076169819">
+      <screen x="0" y="26" width="1440" height="874" />
+    </state>
+    <state x="316" y="26" width="797" height="817" key="#GenreTest.test_validates_whether_genre_id_is_valid_before_updating/0.26.1440.874@0.26.1440.874" timestamp="1590076169819" />
+    <state x="316" y="43" width="797" height="783" key="#GenreTest/0.26.1440.874@0.26.1440.874" timestamp="1590074295578" />
+    <state x="100" y="70" width="1240" height="730" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1590127701313">
+      <screen x="0" y="26" width="1440" height="874" />
+    </state>
+    <state x="100" y="70" width="1240" height="730" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.26.1440.874@0.26.1440.874" timestamp="1590127701313" />
+    <state x="453" y="193" width="524" height="484" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1590097909833">
+      <screen x="0" y="26" width="1440" height="874" />
+    </state>
+    <state x="453" y="193" width="524" height="484" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.26.1440.874@0.26.1440.874" timestamp="1590097909833" />
+    <state x="316" y="66" width="797" height="738" key="#tests" timestamp="1590078408399">
+      <screen x="0" y="26" width="1440" height="874" />
+    </state>
+    <state x="316" y="66" width="797" height="738" key="#tests/0.26.1440.874@0.26.1440.874" timestamp="1590078408399" />
+    <state width="1396" height="196" key="GridCell.Tab.0.bottom" timestamp="1590128472941">
+      <screen x="0" y="26" width="1440" height="874" />
+    </state>
+    <state width="1396" height="196" key="GridCell.Tab.0.bottom/0.26.1440.874@0.26.1440.874" timestamp="1590128472941" />
+    <state width="1396" height="196" key="GridCell.Tab.0.center" timestamp="1590128472939">
+      <screen x="0" y="26" width="1440" height="874" />
+    </state>
+    <state width="1396" height="196" key="GridCell.Tab.0.center/0.26.1440.874@0.26.1440.874" timestamp="1590128472939" />
+    <state width="1396" height="196" key="GridCell.Tab.0.left" timestamp="1590128472937">
+      <screen x="0" y="26" width="1440" height="874" />
+    </state>
+    <state width="1396" height="196" key="GridCell.Tab.0.left/0.26.1440.874@0.26.1440.874" timestamp="1590128472937" />
+    <state width="1396" height="196" key="GridCell.Tab.0.right" timestamp="1590128472940">
+      <screen x="0" y="26" width="1440" height="874" />
+    </state>
+    <state width="1396" height="196" key="GridCell.Tab.0.right/0.26.1440.874@0.26.1440.874" timestamp="1590128472940" />
+    <state x="356" y="290" key="com.intellij.ide.util.TipDialog" timestamp="1590138324716">
+      <screen x="0" y="26" width="1440" height="874" />
+    </state>
+    <state x="356" y="290" key="com.intellij.ide.util.TipDialog/0.26.1440.874@0.26.1440.874" timestamp="1590138324715" />
+  </component>
+</project>
